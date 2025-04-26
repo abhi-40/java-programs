@@ -50,12 +50,7 @@ I made this repo to:
 
 Feel free to explore and use it as a reference for your own learning journey! 🌱
 
-## How to Use
 
-- Clone the repository
-- Open any `.java` file in your favorite IDE (like IntelliJ, VS Code, Eclipse)
-- Run and understand the code
-- Modify and practice more!
 
 ## Future Plans
 
