@@ -1,0 +1,4 @@
+name=Vijay
+address=Delhi
+country=India
+dept=IT
